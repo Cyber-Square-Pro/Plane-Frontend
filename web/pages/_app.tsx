@@ -6,6 +6,7 @@ import { AppProps } from "next/app";
 import { ThemeProvider } from "next-themes";
 import NProgress from "nprogress";
 // styles
+
 import "styles/globals.css";
 import "styles/editor.css";
 import "styles/table.css";
